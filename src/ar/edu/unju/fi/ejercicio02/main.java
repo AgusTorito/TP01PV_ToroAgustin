@@ -1,8 +1,8 @@
 package ar.edu.unju.fi.ejercicio02;
 
-public class Main {
+public class main {
 
-	public static void main(String[] args) {
+	public static void Main(String[] args) {
 		// TODO Auto-generated method stub
 		String NomPais = "Argentina";
 		int PersonaE = 20;
