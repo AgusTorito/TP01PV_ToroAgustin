@@ -11,6 +11,7 @@ public class main {
 		double Telefono = 3884773599d;
 		double CalCoseno = Math.cos(0.5);
 		
+		
 		System.out.println("El nombre del pais es: "+NomPais);
 		System.out.println("La edad de una persona: "+PersonaE);
 		System.out.println("La altura de un edificio: "+AltEd);
